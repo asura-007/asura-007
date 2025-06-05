@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asura-007
-- 👀 I’m interested in saolving problems 
+- 👀 I’m interested in solving problems 
 - 🌱 I’m currently learning neural networks 
 - 💞️ I’m looking to collaborate on gpts 
 - 📫 How to reach me email at chadandandixit752@gmail.com
